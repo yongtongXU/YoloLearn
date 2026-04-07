@@ -110,5 +110,5 @@ export PATH="$HOME/.local/bin:$PATH"
 示例：
 
 ```bash
-detect_boat "/Users/xuyongtong/Documents/paper/paper2_CAC/sa-dwa/picture/field/sub_sensors"
+detect_boat "/Users/Yongtong/Documents/picture"
 ```
