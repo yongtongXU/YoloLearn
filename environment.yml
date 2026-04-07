@@ -1,0 +1,12 @@
+name: yolo-learn
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - jupyterlab
+  - pip:
+      - ultralytics
+      - opencv-python
+      - matplotlib
+      - pandas

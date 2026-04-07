@@ -1,0 +1,7 @@
+# Rename this file to data.yaml and update paths/classes for your dataset.
+path: ./datasets/my_dataset
+train: images/train
+val: images/val
+
+names:
+  0: Boat
