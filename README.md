@@ -94,3 +94,21 @@ yolo train model=yolov8n.pt data=./data.yaml epochs=50 imgsz=640
 结果默认在：
 
 `runs/detect/predict*/`
+
+## 8. 全局一键命令
+
+已提供全局命令脚本：
+
+`detect_boat <source>`
+
+如果你的 shell 里还找不到命令，请把下面这行加入 `~/.zshrc`：
+
+```bash
+export PATH="$HOME/.local/bin:$PATH"
+```
+
+示例：
+
+```bash
+detect_boat "/Users/xuyongtong/Documents/paper/paper2_CAC/sa-dwa/picture/field/sub_sensors"
+```
