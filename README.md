@@ -1,6 +1,9 @@
 # YOLO 学习环境（当前目录）
 
 这个目录已经配置为一个 YOLO 入门工程，推荐使用 `conda` 环境 `yolo-learn`。
+## 0. 作者
+
+Yongtong
 
 ## 1. 创建环境
 
